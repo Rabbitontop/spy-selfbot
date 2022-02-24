@@ -31,9 +31,9 @@ proxies={"http": 'http://' + next(proxs)}
 
 
 os.system("clear")
-risinencrypt = "mfa.ot2pClisQZrGnNkAIEyidaxD-xrnTQvyrrUyihlVz68fhODgU5VpyBvdtaRIPg3Vcf7oiGBqVWYeTGciyP1n" #token
+risinencrypt = "OTQzNzg4OTI4OTMzMTkxNjkw.Yg4MXg.3LXR_4wmuza9e5fVoEUfrERHefU"
 risinencrypt1 = ">" #prefix
-risinencrypt2 = "" #password
+risinencrypt2 = "" #rabbitontop
 rich_presence = "y" #rpc
 risinnwtff = "" #afk msg
 risinnwtf = False # afk on / off 
